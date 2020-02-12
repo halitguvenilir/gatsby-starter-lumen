@@ -2,6 +2,6 @@
 template: page
 title: All Project
 slug: all-project
-draft: true
+draft: false
 ---
 Merhaba
