@@ -1,7 +1,7 @@
 ---
 template: page
 title: All Project
-slug: all-project
+slug: sss
 draft: false
 ---
-Merhaba
+Merhabasadasdasd
